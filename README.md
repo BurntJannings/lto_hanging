@@ -6,6 +6,9 @@
 -- Les Terres de l'Ouest RP
 --------------------------
 
+--Now being handled by you favorite support member ;)
+
+
 --Valentine by Default for hanging
 
 --Command: /hang id
