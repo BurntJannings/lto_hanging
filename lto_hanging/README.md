@@ -6,6 +6,7 @@
 -- Les Terres de l'Ouest RP
 --------------------------
 
+--Valentine Gallows by deafault
 
 --Command: /hang id
 --  /hang 13 #### the player with id 13 will be hang
